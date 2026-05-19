@@ -1,2 +1,2 @@
-# exam_internetTehnology
-internet tehnology
+# Repozytory for code for internet tehnology exam (Spring)
+
